@@ -12,7 +12,7 @@ Hey there! I’m a student learning to code and having a blast doing it. I’m n
 
 - [Stuff I Can Do](#stuff-i-can-do)
 - [Tools I Use](#tools-i-use)
-- [Star Project: Bidder Executive](#star-project-bidder-executive)
+- [Star Project: Notpad](#star-project-Notpad)
 - [More Fun Projects](#more-fun-projects)
 - [How to Try My Stuff](#how-to-try-my-stuff)
 - [Wanna Help?](#wanna-help)
@@ -26,7 +26,7 @@ Hey there! I’m a student learning to code and having a blast doing it. I’m n
 - **Python**: Playing with code to make things work, like backend stuff.
 - **Web Stuff**: Making websites look good with HTML, CSS, and some JavaScript tricks.
 - **Flutter**: Building apps that run on phones—pretty neat!
-- **Mixing It All**: Combining everything for projects like Bidder Executive.
+- **Mixing It All**: Combining everything for projects like Notpad.
 
 ---
 
@@ -42,9 +42,9 @@ Hey there! I’m a student learning to code and having a blast doing it. I’m n
 
 ---
 
-## Star Project: Bidder Executive
+## Star Project: Notpad
 
-**Bidder Executive** is my big project—a bidding system I made to test out my skills. It’s got a bit of everything I’m learning!
+**Notpad** is my big project—a bidding system I made to test out my skills. It’s got a bit of everything I’m learning!
 
 ### What’s Cool About It
 - Lets people bid on stuff (still figuring out real-time updates!).
